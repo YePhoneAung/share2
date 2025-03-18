@@ -17,7 +17,7 @@ public class WorkOut4 {
 				c=cha;
 			}
 		}
-		System.out.println("The character "+cha+"is .");
-	}
+		
+	}	
 
 }
